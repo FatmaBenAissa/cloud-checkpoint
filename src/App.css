@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 150px;
+}
+
+.btnadd{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
